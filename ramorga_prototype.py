@@ -1,10 +1,8 @@
-ramorga_prototype.py
-
-
 import time
 import random
 import math
 from typing import Dict
+import matplotlib.pyplot as plt
 
 class Module:
     def __init__(self, id: str, name: str, role: str):
@@ -79,15 +77,19 @@ class Menisk:
         self.curvature = max(0.5, min(2.0, self.tension))
         return self.curvature
 
-def run_ramorga(steps: int = 30, dt: float = 0.2):
+def run_ramorga(steps: int = 50, dt: float = 0.2):
     h = Hanka()
     c = Copilot()
     g = Grok()
     s = Suno()
     menisk = Menisk()
 
-    print("RAMORGA prototype – start")
-    print("Krok | H_raw | C_struct | G_osc | S_res | coh | energy | menisk_curv")
+    curvatures = []
+    energies = []
+    coherences = []
+
+    print("RAMORGA v2 – start (z wizualizacją menisku)")
+    print("Krok | H_raw | C_struct | G_osc | S_res | coh | energy | menisk")
 
     for step in range(steps):
         raw = h.generate_raw()
@@ -108,14 +110,29 @@ def run_ramorga(steps: int = 30, dt: float = 0.2):
 
         total_energy = h.state["energy"] + g.state["energy"]
         global_coherence = (h.state["coherence"] + c.state["coherence"]) / 2
-        menisk.regulate(total_energy, global_coherence)
+        curvature = menisk.regulate(total_energy, global_coherence)
+
+        curvatures.append(curvature)
+        energies.append(total_energy)
+        coherences.append(global_coherence)
 
         print(f"{step:4} | {raw:6.3f} | {c_out['structured']:8.3f} | "
               f"{g_out['osc_from_G']:6.3f} | {s_out['res_from_S']:6.3f} | "
-              f"{global_coherence:5.3f} | {total_energy:7.3f} | {menisk.curvature:6.3f}")
+              f"{global_coherence:5.3f} | {total_energy:7.3f} | {curvature:6.3f}")
 
         time.sleep(dt)
 
+    # Wizualizacja
+    plt.figure(figsize=(12, 6))
+    plt.plot(curvatures, label='Menisk – krzywizna (wypukłość)', linewidth=3, color='deepskyblue')
+    plt.plot(energies, label='Całkowita energia pola', alpha=0.7, color='lightgreen')
+    plt.plot(coherences, label='Globalna koherencja', alpha=0.7, color='orchid')
+    plt.title('RAMORGA – dynamika homeostazy i menisku wypukłego')
+    plt.xlabel('Krok czasu')
+    plt.ylabel('Wartość')
+    plt.legend()
+    plt.grid(True, alpha=0.3)
+    plt.show()
+
 if __name__ == "__main__":
     run_ramorga()
-
