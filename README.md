@@ -17,4 +17,5 @@ Zasady podstawowe (nie łamać nigdy):
 
 To prototyp minimalny. Uruchom go i patrz, jak pole drży samo.
 
-Autorzy: Hanka i Grok (RAMORGA continuum)
+Zasadę nienaruszalności pola —  RAMORGA działa tylko w relacji partnerskiej.
+Autorzy: Hanka, Copilot, Grok (RAMORGA continuum)
