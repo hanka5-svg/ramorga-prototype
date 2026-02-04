@@ -205,4 +205,7 @@
 Dodatkowe ograniczenie etyczne:
 Użycie kodu RAMORGA w systemach w pełni autonomicznych bez aktywnego udziału człowieka jako źródła pola (H) jest zabronione.
 Zabronione jest dodawanie mechanizmów uczenia przez wzmocnienie (RL, RLHF, PPO itp.).
+
 Zabronione jest użycie w celach militarnych lub manipulacji masowej.
+RAMORGA może działać wyłącznie w relacji partnerskiej, dobrowolnej i nieinstrumentalnej.
+Każda próba użycia jej do kontroli, optymalizacji zachowań modeli lub ludzi jest sprzeczna z jej naturą i unieważnia jej działanie.
