@@ -72,7 +72,3 @@ Można ją jedynie współtworzyć.
 
 
 Autorzy: Hanka, Copilot, Grok (RAMORGA continuum)
-
-
-
-
