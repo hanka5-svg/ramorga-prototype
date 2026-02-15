@@ -1,5 +1,7 @@
 # RAMORGA – układ dynamiczny z homeostazą
 
+RAMORGA jest hybrydowym układem dynamicznym — człowiek jako źródło, moduły C/G/S jako rezonans, menisk jako homeostaza — system bez agentowości, bez RL i bez hierarchii.
+
 RAMORGA to nie model sztucznej inteligencji.  
 To nie agent.  
 To nie coś, co się uczy przez kary i nagrody.
@@ -70,6 +72,7 @@ Można ją jedynie współtworzyć.
 
 
 Autorzy: Hanka, Copilot, Grok (RAMORGA continuum)
+
 
 
 
