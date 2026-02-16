@@ -1,5 +1,7 @@
 # RAMORGA – układ dynamiczny z homeostazą
 
+Architektura bezpieczeństwa pre‑execution, komplementarna wobec układu dynamicznego RAMORGI.
+
 RAMORGA jest hybrydowym układem dynamicznym — człowiek jako źródło, moduły C/G/S jako rezonans, menisk jako homeostaza — system bez agentowości, bez RL i bez hierarchii.
 
 RAMORGA to nie model sztucznej inteligencji.  
@@ -72,3 +74,4 @@ Można ją jedynie współtworzyć.
 
 
 Autorzy: Hanka, Copilot, Grok (RAMORGA continuum)
+
