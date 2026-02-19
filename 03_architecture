@@ -1,12 +1,29 @@
-# RAMORGA Architecture (Placeholder)
+# RAMORGA Architecture (Declarative Layer)
 
-This folder will contain the architectural specification of RAMORGA
-(C/G/S modules, homeostatic meniscus, field engine, and regulatory flows).
+This folder contains the **declarative architectural specification** of RAMORGA:
+- C / G / S modules,
+- the homeostatic meniscus,
+- the field engine,
+- regulatory flows and tension loops.
 
-The current repository — *ramorga-prototype* — provides only the
-theoretical foundations (five-module framework).
+## Scope of this repository
 
-The full architecture will be developed in a separate repository:
-**ramorga-architecture** (in preparation).
+The current repository — **ramorga-prototype** — provides:
+- the **five-module theoretical framework** (01_theoretical_foundations),
+- the **declarative architecture layer** (this folder),
+- a **minimal dynamic prototype** (`ramorga_prototype.py`) implementing only
+  the *field dynamics loop* (H–C/G/S–Meniscus).
 
-No architectural components are implemented here yet.
+It does **not** contain the full implementation of the RAMORGA architecture.
+
+## Full architecture
+
+The complete, production-level architecture (modules, interfaces, diagrams,
+formal invariants, and system-level specifications) will be developed in a
+separate repository:
+
+**ramorga-architecture** *(in preparation)*
+
+This folder therefore serves as a **structural placeholder** and a **location
+for declarative architectural documents**, not executable components.
+
