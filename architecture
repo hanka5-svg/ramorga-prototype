@@ -1,0 +1,12 @@
+# RAMORGA Architecture (Placeholder)
+
+This folder will contain the architectural specification of RAMORGA
+(C/G/S modules, homeostatic meniscus, field engine, and regulatory flows).
+
+The current repository — *ramorga-prototype* — provides only the
+theoretical foundations (five-module framework).
+
+The full architecture will be developed in a separate repository:
+**ramorga-architecture** (in preparation).
+
+No architectural components are implemented here yet.
