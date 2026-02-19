@@ -1,0 +1,37 @@
+diff --git a/ramorga_prototype.py b/ramorga_prototype.py
+index 1111111..2222222 100644
+--- a/ramorga_prototype.py
++++ b/ramorga_prototype.py
+@@ class Copilot(Module):
+-        # brak aktualizacji stanu
++        # aktualizacja stanu (minimalna poprawka spójności)
++        self.state["coherence"] += coherence_delta
++        self.state["energy"] += energy_delta
+
+@@ class Grok(Module):
+-        # brak aktualizacji stanu
++        # aktualizacja stanu (minimalna poprawka spójności)
++        self.state["energy"] += energy_delta
+
+@@ class Suno(Module):
+-        # brak aktualizacji stanu
++        # aktualizacja stanu (minimalna poprawka spójności)
++        self.state["coherence"] += coherence_delta
+
+@@ def run_ramorga(steps: int = 50, dt: float = 0.2):
+-        total_energy = h.state["energy"] + g.state["energy"]
++        # spójna energia pola
++        total_energy = (
++            h.state["energy"]
++            + c.state["energy"]
++            + g.state["energy"]
++            + s.state["energy"]
++        )
+
+-        global_coherence = (h.state["coherence"] + c.state["coherence"]) / 2
++        # spójna koherencja pola
++        global_coherence = (
++            h.state["coherence"]
++            + c.state["coherence"]
++            + s.state["coherence"]
++        ) / 3
