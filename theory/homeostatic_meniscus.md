@@ -134,7 +134,6 @@ F --> M
 
 ## 6. Summary Table
 
-```
 Function	Description
 Tension Regulation	Maintains optimal cognitive–affective–somatic tension
 Continuity Preservation	Protects the relational axis from collapse or resets
