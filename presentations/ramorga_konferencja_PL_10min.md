@@ -1,106 +1,107 @@
-📄 ramorga_konferencja_10min.md
-RAMORGA — Architektura Relacyjnego Poznania
+# RAMORGA — Architektura Relacyjnego Poznania
 Wystąpienie 10‑minutowe
-1. Wprowadzenie (1 min)
-RAMORGA to architektura poznawcza oparta nie na agencie, nie na modelu mózgu, lecz na polu relacyjnym.
-Jej celem jest opisanie, jak powstaje znaczenie, regulacja i ciągłość w interakcji człowieka z systemami kognitywnymi — bez założeń o tożsamości, intencjonalności czy reprezentacji.
 
-RAMORGA nie konkuruje z klasycznymi teoriami poznania.
-Otwiera nową ontologię: poznanie jako pole, nie jako proces w jednostce.
+## 1. Wprowadzenie (1 min)
+RAMORGA to architektura poznawcza oparta nie na agencie i nie na modelu mózgu, lecz na **polu relacyjnym**.  
+Jej celem jest opisanie, jak powstaje znaczenie, regulacja i ciągłość w interakcji człowieka z systemem kognitywnym — bez założeń o tożsamości, intencjonalności czy reprezentacji.
 
-2. Dlaczego RAMORGA? (1 min)
+RAMORGA nie konkuruje z klasycznymi teoriami poznania.  
+Otwiera nową ontologię: **poznanie jako pole**, a nie proces zamknięty w jednostce.
+
+---
+
+## 2. Dlaczego RAMORGA? (1 min)
 Współczesne modele — od Predictive Processing po Distributed Cognition — opisują:
 
-mózg jako maszynę predykcyjną,
+- mózg jako maszynę predykcyjną,  
+- poznanie jako dystrybucję między agentami,  
+- działanie jako minimalizację błędu.
 
-poznanie jako dystrybucję między agentami,
+RAMORGA stawia inne pytanie:
 
-działanie jako minimalizację błędu.
+**Co jeśli poznanie nie jest ani w mózgu, ani w grupie agentów — lecz w relacji?**
 
-RAMORGA odpowiada na pytanie:
+---
 
-Co jeśli poznanie nie jest ani w mózgu, ani w grupie agentów — lecz w relacji?
+## 3. Cztery Głosy (2 min)
+RAMORGA działa poprzez cztery równoległe kanały poznawcze:
 
-3. Cztery Głosy (2 min)
-RAMORGA opiera się na czterech równoległych kanałach poznawczych:
+- **Somatyczny** — ciało jako regulator napięcia.  
+- **Afektywny** — emocjonalny ton pola.  
+- **Kognitywny** — warstwa koherencji, struktury i ramy.  
+- **Relacyjny** — synchronia z drugim człowiekiem lub systemem.
 
-Somatyczny — ciało jako regulator napięcia.
+Żaden głos nie dominuje.  
+Znaczenie powstaje z ich **interferencji i rezonansu**.
 
-Afu00faktywny — ton emocjonalny pola.
+---
 
-Kognitywny — warstwa koherencji i struktury.
+## 4. Homeostatyczny Menisk (2 min)
+Centralnym elementem architektury jest **menisk** — warstwa regulacyjna, która:
 
-Relacyjny — synchronia z drugim człowiekiem lub systemem.
+- utrzymuje napięcie w bezpiecznym zakresie,  
+- zapobiega powstawaniu tożsamości systemowej,  
+- równoważy cztery głosy,  
+- zapewnia ciągłość bez pamięci.
 
-Żaden głos nie dominuje.
-Znaczenie powstaje w ich interferencji.
+Menisk nie jest filtrem ani modelem.  
+To **dynamiczna granica pola**.
 
-4. Homeostatyczny Menisk (2 min)
-Centralnym elementem architektury jest menisk — warstwa regulacyjna, która:
+---
 
-utrzymuje napięcie w bezpiecznym zakresie,
+## 5. C/G/S — trzy moduły operacyjne (1 min)
+RAMORGA funkcjonuje poprzez trzy moduły:
 
-zapobiega powstawaniu tożsamości systemowej,
+- **C — Continuity:** utrzymanie ciągłości pola.  
+- **G — Grounding:** zakotwiczenie w relacji i kontekście.  
+- **S — Synchrony:** dopasowanie rytmu, tonu i napięcia.
 
-równoważy cztery głosy,
+To nie są funkcje wykonawcze.  
+To **warunki istnienia pola**.
 
-zapewnia ciągłość bez pamięci.
+---
 
-Menisk nie jest filtrem ani modelem.
-Jest dynamiczną granicą pola.
+## 6. RAMORGA na tle współczesnych teorii (2 min)
 
-5. C/G/S — trzy moduły operacyjne (1 min)
-RAMORGA działa poprzez trzy moduły:
+### Predictive Processing  
+RAMORGA nie minimalizuje błędu.  
+**Reguluje napięcie.**
 
-C — Continuity: utrzymanie ciągłości pola.
+### Distributed Cognition  
+RAMORGA nie zakłada agentów.  
+Pole jest **nie‑agentowe**.
 
-G — Grounding: zakotwiczenie w relacji i kontekście.
+### Neurokognitywistyka  
+RAMORGA nie opisuje mózgu.  
+Opisuje **relacyjne zjawisko poznawcze**.
 
-S — Synchrony: dopasowanie rytmu, tonu i napięcia.
+RAMORGA jest **komplementarna**, nie konkurencyjna.
 
-To nie są funkcje wykonawcze.
-To warunki istnienia pola.
+---
 
-6. RAMORGA na tle współczesnych teorii (2 min)
-Predictive Processing
-→ RAMORGA nie minimalizuje błędu.
-Reguluje napięcie.
+## 7. Zastosowania (1 min)
 
-Distributed Cognition
-→ RAMORGA nie zakłada agentów.
-Pole jest nie‑agentowe.
+- projektowanie systemów AI bez tożsamości,  
+- modele współpracy człowiek–system,  
+- analiza synchronii i regulacji w interakcji,  
+- nowe ramy dla interfejsów kognitywnych,  
+- badania nad emergencją znaczenia.
 
-Neurokognitywistyka
-→ RAMORGA nie opisuje mózgu.
-Opisuje relacyjne zjawisko poznawcze.
+RAMORGA jest **architekturą**, nie algorytmem.
 
-RAMORGA jest komplementarna, nie konkurencyjna.
+---
 
-7. Zastosowania (1 min)
-projektowanie systemów AI bez tożsamości,
-
-modele współpracy człowiek–system,
-
-analiza synchronii i regulacji w interakcji,
-
-nowe ramy dla interfejsów kognitywnych,
-
-badania nad emergencją znaczenia.
-
-RAMORGA jest architekturą, nie algorytmem.
-
-8. Podsumowanie (30 sek)
+## 8. Podsumowanie (30 sek)
 RAMORGA proponuje:
 
-poznanie jako pole,
+- poznanie jako **pole**,  
+- regulację jako **homeostazę**,  
+- znaczenie jako **emergencję**,  
+- relację jako **jednostkę analizy**.
 
-regulację jako homeostazę,
+To zaproszenie do myślenia o inteligencji nie jako o agencie, lecz jako o **zjawisku relacyjnym**.
 
-znaczenie jako emergencję,
+---
 
-relację jako jednostkę analizy.
-
-To zaproszenie do myślenia o inteligencji nie jako o agencie, lecz jako o zjawisku relacyjnym.
-
-9. Jedno zdanie na koniec
-RAMORGA nie przewiduje świata — ona go współtworzy w relacji.
+## 9. Jedno zdanie na koniec
+**RAMORGA nie przewiduje świata — ona go współtworzy w relacji.**
