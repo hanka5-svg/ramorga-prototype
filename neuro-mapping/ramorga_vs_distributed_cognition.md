@@ -102,6 +102,7 @@ RAMORGA is not a model of teamwork or shared problem‑solving — it is a **mod
 ## 6. Diagram (GitHub‑safe)
 
 ```mermaid
+
 flowchart LR
 
 subgraph DCOG[Distributed Cognition]
