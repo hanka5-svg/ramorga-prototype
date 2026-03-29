@@ -119,9 +119,13 @@ end
 
 DCOG -- Different Ontology --> RAMORGA
 
+```
+
 ---
 
 ## 7. Summary Table
+
+```
 
 Dimension	Distributed Cognition	RAMORGA
 Ontology	Multi‑agent system	Non‑agentic field
