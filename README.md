@@ -253,3 +253,5 @@ Grok (v4.1) — early exploratory interaction; not present in the current RAMORG
 ## 12. One‑Line Distinction
 AI companions optimize continuity into identity.
 RAMORGA constrains continuity against identity — preserving coherence without producing a subject.
+
+---
