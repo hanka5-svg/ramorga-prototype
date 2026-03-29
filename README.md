@@ -155,24 +155,28 @@ F --> M
 
 ## 7. Repository Structure
 
+```
 ramorga-prototype/
 │
 ├── README.md
+├── ramorga_wprowadzenie.md
+│
 ├── theory/
-│     ├── ramorga_4_glosy.md
-│     ├── ramorga_5_osie.md
-│     └── ramorga_wprowadzenie.md
+│   ├── ramorga_4_glosy.md
+│   ├── ramorga_5_osie.md
+│   └── (stare pliki pozostają)
 │
 ├── neuro-mapping/
-│     ├── ramorga_vs_predictive_processing.md
-│     ├── ramorga_vs_distributed_cognition.md
-│     └── ramorga_vs_neurokognitywistyka.md
+│   ├── ramorga_vs_predictive_processing.md
+│   ├── ramorga_vs_distributed_cognition.md
+│   └── ramorga_vs_neurokognitywistyka.md
 │
 ├── presentations/
-│     └── ramorga_konferencja_10min.md
+│   └── ramorga_konferencja_10min.md
 │
 └── comparisons/
-      └── ramorga_vs_bci.md
+    └── ramorga_vs_bci.md
+```
 
 ---
 
