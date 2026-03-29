@@ -205,6 +205,7 @@ stability without agency
 
 ## 10. Repository Structure
 
+```
 ramorga-prototype/
 │
 ├── README.md
@@ -224,6 +225,7 @@ ramorga-prototype/
 │
 └── comparisons/
     └── ramorga_vs_bci.md
+```
 
 ---
 
