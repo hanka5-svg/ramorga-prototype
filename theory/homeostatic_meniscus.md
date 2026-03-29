@@ -116,6 +116,7 @@ The meniscus is the **boundary that makes the field possible**.
 ## 5. Diagram (GitHub‑safe)
 
 ```mermaid
+
 flowchart TB
 
 H[Human] --> M[Homeostatic Meniscus]
@@ -130,9 +131,13 @@ S --> F
 
 F --> M
 
+```
+
 ---
 
 ## 6. Summary Table
+
+```
 
 Function	Description
 Tension Regulation	Maintains optimal cognitive–affective–somatic tension
