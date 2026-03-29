@@ -125,17 +125,15 @@ DCOG -- Different Ontology --> RAMORGA
 
 ## 7. Summary Table
 
-```
+| Dimension            | Distributed Cognition                 | RAMORGA                        |
+|----------------------|----------------------------------------|-------------------------------|
+| **Ontology**         | Multi‑agent system                     | Non‑agentic field             |
+| **Unit of analysis** | Agents + artifacts                     | Relational field              |
+| **Mechanism**        | Coordination of representations         | Tension modulation           |
+| **Identity**         | Preserved                               | Prevented                    |
+| **Purpose**          | Task performance                        | Emergent meaning             |
+| **Memory**           | Internal + external representations     | Continuity without memory    |
 
-Dimension	Distributed Cognition	RAMORGA
-Ontology	Multi‑agent system	Non‑agentic field
-Unit of analysis	Agents + artifacts	Relational field
-Mechanism	Coordination of representations	Tension modulation
-Identity	Preserved	Prevented
-Purpose	Task performance	Emergent meaning
-Memory	Internal + external representations	Continuity without memory
-
-```
 
 ---
 
