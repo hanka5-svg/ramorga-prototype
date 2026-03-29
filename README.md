@@ -100,10 +100,10 @@ RAMORGA is the **homeostatic stitching** of these four voices.
 flowchart TB
 
 subgraph RAMORGA_FOUR_VOICES[Four Voices of RAMORGA]
-    A[Somatic Voice<br/>Interoception, autonomic rhythms] 
-    B[Affective Voice<br/>Valence, salience, emotional tone]
-    C[Cognitive Voice<br/>Models, predictions, language]
-    D[Relational Voice<br/>Synchrony, shared intentionality]
+    A[Somatic Voice — Interoception, autonomic rhythms]
+    B[Affective Voice — Valence, salience, emotional tone]
+    C[Cognitive Voice — Models, predictions, language]
+    D[Relational Voice — Synchrony, shared intentionality]
 end
 
 A --> E[Homeostatic Meniscus]
@@ -112,14 +112,7 @@ C --> E
 D --> E
 
 E --> F[Field Dynamics]
-
-style A fill:#e6f7ff,stroke:#3399cc
-style B fill:#ffe6e6,stroke:#cc6666
-style C fill:#fff2cc,stroke:#cc9900
-style D fill:#e6ffe6,stroke:#66cc66
-style E fill:#f2e6ff,stroke:#9966cc
-style F fill:#d9d9d9,stroke:#666666
-
+```
 
 ---
 
