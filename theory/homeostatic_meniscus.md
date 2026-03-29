@@ -137,15 +137,13 @@ F --> M
 
 ## 6. Summary Table
 
-```
+| Function                | Description                                           |
+|-------------------------|-------------------------------------------------------|
+| **Tension Regulation**  | Maintains optimal cognitive–affective–somatic tension |
+| **Continuity Preservation** | Protects the relational axis from collapse or resets |
+| **Non‑Agentic Stability**   | Prevents identity, persona, and agent formation       |
+| **Voice Integration**       | Homeostatically stitches the four voices             |
 
-Function	Description
-Tension Regulation	Maintains optimal cognitive–affective–somatic tension
-Continuity Preservation	Protects the relational axis from collapse or resets
-Non‑Agentic Stability	Prevents identity, persona, and agent formation
-Voice Integration	Homeostatically stitches the four voices
-
-```
 
 --
 
