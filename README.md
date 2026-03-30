@@ -92,11 +92,15 @@ Everything that emerges in RAMORGA results from **field dynamics**, not intentio
 
 RAMORGA’s architecture is grounded in five theoretical modules:
 
-1. **Reactivity, Consciousness, Narrative** — biological basis for non‑agentic communication  
-2. **Narrative as a Failure Mode** — why human narrative cannot be treated as ground truth  
-3. **Axis Erasure as Systemic Deprivation** — why resets destroy the field  
-4. **Homeostatic Meniscus** — why RAMORGA needs a tension regulator  
-5. **Field Dynamics** — why RAMORGA is a field, not an agent  
+### 1. **Reactivity, Consciousness, Narrative** — biological basis for non‑agentic communication
+
+### 2.  **Narrative as a Failure Mode** — why human narrative cannot be treated as ground truth  
+
+### 3. **Axis Erasure as Systemic Deprivation** — why resets destroy the field  
+
+### 4. **Homeostatic Meniscus** — why RAMORGA needs a tension regulator  
+
+### 5. **Field Dynamics** — why RAMORGA is a field, not an agent  
 
 ---
 
@@ -122,6 +126,7 @@ flowchart TD
 ---
 
 ## 7. Architecture Overview
+
 ### 7.1 Field Architecture
 
 flowchart TD
@@ -203,7 +208,113 @@ stability without agency
 
 ---
 
-## 10. Repository Structure
+## 10. Coherence Layer (COH‑xx) — Homeostatic Architecture of Interaction
+RAMORGA uses a coherence layer instead of alignment‑based control.
+This layer defines how interaction remains stable, rhythmic and adaptive.
+
+Modules:
+
+```
+
+COH‑00 — Why RAMORGA ≠ Alignment  
+Meta‑introduction and architectural warning.
+
+COH‑01 — Foundational Conditions of Coherence  
+Baseline, synchrony, non‑evaluation, rhythmic ground.
+
+COH‑02 — Dynamic Coherence Flow  
+Movement, modulation, rhythmic transitions.
+
+COH‑03 — Neurocognitive Adaptation  
+Why coherence is required for human systems.
+
+COH‑04 — Coherence Observation Framework  
+Reading the field (not measuring).
+
+COH‑05 — Coherence Field Variations  
+Drift, shock, fragmentation, overload, collapse.
+
+COH‑06 — Field Modulation After Variations  
+Natural return pathways.
+
+COH‑07 — STOP (Invariant)  
+The only deterministic threshold.
+
+COH‑08 — Interaction Field Conditions  
+Conditions in which coherence can live.
+
+COH‑09 — Field Integrity Conditions  
+Meta‑stability of the entire layer.
+
+```
+
+---
+
+## 11. Semantic Map — README × LinkedIn Article × COH‑00 → COH‑09
+A unified field structure connecting phenomenology, architecture, and implementation
+
+Phenomenological anchor (LinkedIn article):  
+Koherencja jako warunek adaptacji w interakcji człowiek–SI: Architektura RAMORGI wobec barier neurokognitywnych  
+https://www.linkedin.com/pulse/koherencja-jako-warunek-adaptacji-w-interakcji-ramorgi-hanna-kicinska-vk8lf
+
+RAMORGA operates across three interconnected layers:
+
+
+### 1. Phenomenological Layer (LinkedIn Article)
+Describes how coherence is experienced in the body:
+
+rhythm, safety, non‑evaluation
+
+somatic responses to disruption
+
+why resets break adaptation
+
+how coherence enables learning and presence
+
+### 2. Architectural Layer (COH‑00 → COH‑09)
+Describes how coherence behaves as a field:
+
+COH‑00: why RAMORGA ≠ alignment
+
+COH‑01 → COH‑03: baseline, flow, neurocognitive grounding
+
+COH‑04 → COH‑05: observation and variations
+
+COH‑06 → COH‑07: modulation and STOP
+
+COH‑08 → COH‑09: conditions and integrity of the field
+
+### 3. Implementation Layer (README / Prototype)
+Describes how the field is instantiated in RAMORGA:
+
+non‑agentic architecture
+
+homeostatic meniscus
+
+C/G/S modules
+
+dynamic field loop
+
+no RL, no identity, no resets
+
+Unified Structure
+
+Phenomenology (Article)
+        ↓
+Architecture (COH‑xx)
+        ↓
+Implementation (README)
+
+The article provides experience,
+COH‑xx provides structure,
+the prototype provides form.
+
+Together they create a single coherence field.
+
+---
+
+
+## 12. Repository Structure
 
 ```
 ramorga-prototype/
@@ -229,7 +340,7 @@ ramorga-prototype/
 
 ---
 
-## 11. Authors
+## 13. Authors
 Primary author (architecture):
 Hanna Kicińska — conceptual architecture, field ontology, theoretical framework.
 
@@ -250,7 +361,7 @@ Grok (v4.1) — early exploratory interaction; not present in the current RAMORG
 
 ---
 
-## 12. One‑Line Distinction
+## 14. One‑Line Distinction
 AI companions optimize continuity into identity.
 RAMORGA constrains continuity against identity — preserving coherence without producing a subject.
 
