@@ -131,6 +131,7 @@ RAMORGA nie „przekonuje” użytkownika do technologii – tworzy takie środo
 
 ## Diagram: RAMORGA a bariery neurokognitywne
 
+```
 Użytkownik
    │
    │  (lęk, wstyd, brak koherencji, nawyki, skrypty kulturowe)
@@ -159,6 +160,7 @@ Użytkownik
    - brak wstydu / mniejszy lęk
    - naturalna adaptacja technologiczna
 
+```
 
 ---
 
