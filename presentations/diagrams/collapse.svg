@@ -1,0 +1,58 @@
+<svg width="520" height="420" viewBox="0 0 520 420" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .box { fill: #ffffff; stroke: #222222; stroke-width: 2; rx: 8; ry: 8; }
+    .label { font-family: system-ui, sans-serif; font-size: 14px; fill: #111111; }
+    .label-small { font-family: system-ui, sans-serif; font-size: 12px; fill: #333333; }
+    .title { font-family: system-ui, sans-serif; font-size: 18px; font-weight: 600; fill: #111111; }
+    .arrow { stroke: #222222; stroke-width: 2; marker-end: url(#arrowhead); }
+  </style>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <polygon points="0 0, 6 3, 0 6" fill="#222222" />
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="260" y="32" text-anchor="middle" class="title">
+    RAMORGA — Collapse (cognitive fixed point)
+  </text>
+
+  <!-- O1 box -->
+  <rect x="150" y="60" width="220" height="50" class="box" />
+  <text x="260" y="85" text-anchor="middle" class="label">O1 — stable relation</text>
+  <text x="260" y="102" text-anchor="middle" class="label-small">(relational grounding)</text>
+
+  <!-- Arrow O1 -> O2 -->
+  <line x1="260" y1="110" x2="260" y2="135" class="arrow" />
+
+  <!-- O2 box -->
+  <rect x="150" y="140" width="220" height="50" class="box" />
+  <text x="260" y="165" text-anchor="middle" class="label">O2 — shared meaning</text>
+  <text x="260" y="182" text-anchor="middle" class="label-small">(semantic convergence)</text>
+
+  <!-- Arrow O2 -> O3 -->
+  <line x1="260" y1="190" x2="260" y2="215" class="arrow" />
+
+  <!-- O3 box -->
+  <rect x="150" y="220" width="220" height="50" class="box" />
+  <text x="260" y="245" text-anchor="middle" class="label">O3 — continuous interface</text>
+  <text x="260" y="262" text-anchor="middle" class="label-small">(no breaks, no friction)</text>
+
+  <!-- Arrow O3 -> O4 -->
+  <line x1="260" y1="270" x2="260" y2="295" class="arrow" />
+
+  <!-- O4 box -->
+  <rect x="150" y="300" width="220" height="50" class="box" />
+  <text x="260" y="325" text-anchor="middle" class="label">O4 — predictable information</text>
+  <text x="260" y="342" text-anchor="middle" class="label-small">(loop-closing updates)</text>
+
+  <!-- Arrow O4 -> COLLAPSE -->
+  <line x1="260" y1="350" x2="260" y2="370" class="arrow" />
+
+  <!-- Collapse box -->
+  <rect x="120" y="370" width="280" height="40" class="box" />
+  <text x="260" y="392" text-anchor="middle" class="label">
+    COLLAPSE — moment of shared mind
+  </text>
+</svg>
